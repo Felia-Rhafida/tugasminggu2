@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(243, 237, 248);
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    box-sizing: border;
+}
+form{
+    border: solid 1px rgb(204, 204, 204);
+    padding:40px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: rgb(188, 248, 226);
+}
+.form-item{
+    margin: 20px;
+}
+input{
+    display: block;
+    width: 100%;
+    height: 40px;
+    box-sizing: border;
+    border-radius: 10px;
+}
+button{
+    display: block;
+    width: 100%;
+    box-sizing: border;
+}
+    
